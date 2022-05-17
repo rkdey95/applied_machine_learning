@@ -1,10 +1,10 @@
-# applied_machine_learning
+# Epilepsy Detection Using Applied_machine_learning
 
 Created by: Rupesh Kumar Dey
 Date 30-Apr-2021
 Language: R-programming
 
-This repository contains Scripts of Applied Machine Learning in R-programming language for Epileptsy Classification. 
+This repository contains Scripts of Applied Machine Learning in R-programming language for Epilepsy Classification. 
 Models built here include 
 a) Support Vector Machines
 b) Artificial Nueral Network 
